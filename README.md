@@ -8,3 +8,5 @@ Currently, only the data related to the first trajectory is available. For furth
 包含三段时长2分钟左右的极地航行相关数据，具体包含1.航行轨迹的GPS坐标信息及其他船舶运动信息；2.一组三台随船相机在右舷拍摄的系列照片，拍摄间隔1s。
 由于GitHub空间限制，数据集被保存在链接: https://pan.baidu.com/s/179ReBbIWflcmK3VmACBZIA?pwd=hbxm
 目前仅开放第一条轨迹相关的数据，如有需要请联系mdf2004@zju.edu.cn或22234008@zju.edu.cn
+
+![20221123084500](https://github.com/user-attachments/assets/a74a59f6-3c79-49a1-9b9d-32df3613c886)
